@@ -15,3 +15,4 @@ bool primi(int n){
    else{
     return false;
   }
+  }

@@ -7,8 +7,7 @@ bool primi(int n){
     }
     div++;
   }
-  if(conta==1)
-  {
+  if(conta==1){
     return true;
   }else{
     return false;

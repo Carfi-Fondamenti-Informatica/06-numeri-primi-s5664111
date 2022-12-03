@@ -6,11 +6,10 @@ int main(){
   bool b;
   cin>>a;
   b=primi(a);
-  if(b==true){
+  if(b==true)
     cout<<"numero primo"<<endl;
-  }
-  else if(b==false){
+  else if(b==false)
     cout<<"numero non primo"<<endl;
-  }
+  
   return 0;
 }
